@@ -1,0 +1,1 @@
+-- Init migration tracking infrastructure

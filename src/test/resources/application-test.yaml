@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+
+logging:
+  level:
+    root: WARN
+    com.milki.mimi: INFO
+    org.flywaydb: INFO
+    org.testcontainers: INFO
+
